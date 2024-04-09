@@ -2,7 +2,7 @@
 
 Project Developed by:
 
-Name : mishal K Jaleel
+Name : Mishal K Jaleel
 
 Regnumber : 720921244030
 
